@@ -42,6 +42,6 @@ def draw(img_path, invert=False):
     print(image)
 
 # put the path to your photo below.
-draw('/Users/mrmoon/Desktop/eubanks/610-chef.jpg')
+draw('path')
 
 
